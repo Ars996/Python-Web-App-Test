@@ -1,0 +1,9 @@
+address: https://test-stand.gb.ru
+sleep_time: 1
+browser: firefox
+wait: 3
+login: niko2101
+passwd: 87c2463fae
+title: Create post automatically_001
+description: Post creation and validation via selenium webdriver
+content: Selenium WebDriver - cool.
